@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KratDOSMercury", "KratDOSMercury\KratDOSMercury.csproj", "{CE3FD37D-AC46-415F-8005-158DC41D3DAC}"
+EndProject
+Project("{471EC4BB-E47E-4229-A789-D1F5F83B52D4}") = "KratDOSMercuryBoot", "KratDOSMercury\KratDOSMercuryBoot.Cosmos", "{B62EC515-3F06-4B65-B336-2B908B529C3E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CE3FD37D-AC46-415F-8005-158DC41D3DAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE3FD37D-AC46-415F-8005-158DC41D3DAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE3FD37D-AC46-415F-8005-158DC41D3DAC}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{CE3FD37D-AC46-415F-8005-158DC41D3DAC}.Debug|x86.Build.0 = Debug|Any CPU
+		{CE3FD37D-AC46-415F-8005-158DC41D3DAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE3FD37D-AC46-415F-8005-158DC41D3DAC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE3FD37D-AC46-415F-8005-158DC41D3DAC}.Release|x86.ActiveCfg = Release|Any CPU
+		{CE3FD37D-AC46-415F-8005-158DC41D3DAC}.Release|x86.Build.0 = Release|Any CPU
+		{B62EC515-3F06-4B65-B336-2B908B529C3E}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{B62EC515-3F06-4B65-B336-2B908B529C3E}.Debug|Any CPU.Build.0 = Debug|x86
+		{B62EC515-3F06-4B65-B336-2B908B529C3E}.Debug|x86.ActiveCfg = Debug|x86
+		{B62EC515-3F06-4B65-B336-2B908B529C3E}.Debug|x86.Build.0 = Debug|x86
+		{B62EC515-3F06-4B65-B336-2B908B529C3E}.Release|Any CPU.ActiveCfg = Debug|x86
+		{B62EC515-3F06-4B65-B336-2B908B529C3E}.Release|Any CPU.Build.0 = Debug|x86
+		{B62EC515-3F06-4B65-B336-2B908B529C3E}.Release|x86.ActiveCfg = Debug|x86
+		{B62EC515-3F06-4B65-B336-2B908B529C3E}.Release|x86.Build.0 = Debug|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

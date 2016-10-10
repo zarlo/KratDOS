@@ -1,0 +1,15 @@
+C:\Users\Robert\Documents\Visual Studio 2015\Projects\KratDOSMercury\KratDOSMercury\bin\Debug\KratDOSMercury.dll
+C:\Users\Robert\Documents\Visual Studio 2015\Projects\KratDOSMercury\KratDOSMercury\bin\Debug\KratDOSMercury.pdb
+C:\Users\Robert\Documents\Visual Studio 2015\Projects\KratDOSMercury\KratDOSMercury\bin\Debug\Cosmos.Debug.Kernel.dll
+C:\Users\Robert\Documents\Visual Studio 2015\Projects\KratDOSMercury\KratDOSMercury\bin\Debug\Cosmos.System.dll
+C:\Users\Robert\Documents\Visual Studio 2015\Projects\KratDOSMercury\KratDOSMercury\bin\Debug\Cosmos.Common.dll
+C:\Users\Robert\Documents\Visual Studio 2015\Projects\KratDOSMercury\KratDOSMercury\bin\Debug\Cosmos.HAL.dll
+C:\Users\Robert\Documents\Visual Studio 2015\Projects\KratDOSMercury\KratDOSMercury\bin\Debug\Cosmos.Core.dll
+C:\Users\Robert\Documents\Visual Studio 2015\Projects\KratDOSMercury\KratDOSMercury\bin\Debug\Cosmos.System.pdb
+C:\Users\Robert\Documents\Visual Studio 2015\Projects\KratDOSMercury\KratDOSMercury\bin\Debug\Cosmos.Debug.Kernel.pdb
+C:\Users\Robert\Documents\Visual Studio 2015\Projects\KratDOSMercury\KratDOSMercury\bin\Debug\Cosmos.Common.pdb
+C:\Users\Robert\Documents\Visual Studio 2015\Projects\KratDOSMercury\KratDOSMercury\bin\Debug\Cosmos.HAL.pdb
+C:\Users\Robert\Documents\Visual Studio 2015\Projects\KratDOSMercury\KratDOSMercury\bin\Debug\Cosmos.Core.pdb
+C:\Users\Robert\Documents\Visual Studio 2015\Projects\KratDOSMercury\KratDOSMercury\obj\Debug\KratDOSMercury.csprojResolveAssemblyReference.cache
+C:\Users\Robert\Documents\Visual Studio 2015\Projects\KratDOSMercury\KratDOSMercury\obj\Debug\KratDOSMercury.dll
+C:\Users\Robert\Documents\Visual Studio 2015\Projects\KratDOSMercury\KratDOSMercury\obj\Debug\KratDOSMercury.pdb
